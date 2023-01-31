@@ -27,6 +27,18 @@ url: "https://outdoor-recreation-geography.com" # the base hostname & protocol f
 twitter_username: 
 github_username:  outdoor-recreation-geography
 
+# GitHub Pages settings
+lsi: false
+safe: true
+# source:
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 # Build settings
 theme: minima
 plugins:
